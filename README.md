@@ -1,5 +1,12 @@
 # this is the react-App created by saksham 
 
+this is the Front-End react-app
+cart functionality and other pages functionality are not turn on yet 
+you can also see this webiste without cloning this
+here is the link
+## https://sakshamfooddeliveryapp.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
